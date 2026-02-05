@@ -1,5 +1,3 @@
 ### Neovim config
 
-Hello I update this configuration always using
-vimplug because there are usually several logs when using lazyvim and for those who just start using vim or neovim it can be difficult, until now it is the best thing that I could actulize only using init.vim and it works quite well the idea is to do the same but with lua because I have tried several with lazy and they all bring various problems and the idea is that it is as easy as possible without so many complications.
-Thank you
+Hello, this file contains everything for NeoVim to work correctly, the plugins are in Lua, but using Vimplug as an installer of the plugins, so far it has worked very well for me from time to time you have to update the plugins to work everything correctly in the beginning if you have done everything right you should not have any problem remember to have Nodejs installed, npm, nvm, yarn, and openjdk and it should all work fine for you.
